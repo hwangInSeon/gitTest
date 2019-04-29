@@ -1,2 +1,2 @@
 print "test11"
-merge log
+print "merge log"
