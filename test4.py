@@ -1,2 +1,2 @@
-print "test44"
+print "master4"
 merge log
